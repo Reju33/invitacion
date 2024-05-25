@@ -1,0 +1,53 @@
+#Bienvenida{
+    font-family: 'You Wont Bring Me Down', sans-serif;
+font-family: 'KG You Wont Bring Me Down', sans-serif;
+font-size:54px;
+color: aliceblue;
+position: relative;
+left: 50%;
+}
+#imagen-portada{
+    opacity:3;
+    z-index: -1;
+    margin-top:0%;
+    position: fixed;
+    top: 0;
+    left: 33%;
+width: auto;
+  height: auto; 
+  width: 100vw;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  display: block;
+}
+.txt-welcome{
+    font-family: 'You Wont Bring Me Down', sans-serif;
+    font-family: 'Golden Notes', sans-serif;
+    font-size:30px;
+    color: aliceblue;
+    position: relative;
+    left: 50%;
+}
+#countdown {
+    font-family: 'Golden Notes', sans-serif;
+    color:white;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20%;
+    position: fixed;
+    left: 35%;
+}
+.imagen-mensaje{
+    opacity:1;
+    z-index: -1;
+    margin-top:0%;
+    position: relative;
+    left: 0%;
+width: auto;
+  height: auto; 
+}
+img{
+    max-width: 100%;
+    height: auto;
+}

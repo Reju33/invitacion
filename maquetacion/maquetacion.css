@@ -1,0 +1,54 @@
+section{
+    margin-top: 0;
+}
+
+/* Secciones*/
+#seccion-foto{
+background-color:aliceblue;
+}
+#seccion-mensaje{
+background-color: antiquewhite;;
+}
+#seccion-datos-invitado{
+background-color: aqua;
+}
+#lugar{
+background-color: azure;
+}
+#Padrinos{
+background-color: beige;
+}
+#Itinerario{
+background-color: blue;
+}
+#Mesa-regalos{
+background-color: blueviolet;
+}
+#vestimenta{
+background-color: brown;
+}
+#fotos-novios{
+background-color: cadetblue;
+}
+#hospedaje{
+background-color: chartreuse;
+}
+#confirmacion{
+background-color: coral;
+}
+#Fotos-insta{
+background-color: darkcyan;
+}
+#frase{
+background-color: darkseagreen;
+}
+#cotizar-invitacion{
+background-color: darkslateblue;
+}
+/*Clases */
+.Foto-principal{
+    z-index: -1;
+    top: 0%;
+    left: 50%;
+    width: 100%;
+}
